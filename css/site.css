@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #445544;
+    --primary-color: #7a1152;
     --secondary-color: #ff993b;
     --dark-color: #292929;
     --white-color: #dff3e4;
@@ -70,3 +70,7 @@ code[class*="language-"],
             word-break: break-all;
             word-wrap: break-word;
         }
+
+.logoFont{
+    font-family: 'Racing Sans One', cursive;
+}
