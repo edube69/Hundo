@@ -1,2 +1,1 @@
-# JsSiteTemplate
-Mini Site Template for JS Projects
+# Hundo, a Javascript Demo Project.
