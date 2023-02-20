@@ -1,5 +1,3 @@
-
-
 // Get the values from the App page
 // Start or controller function
 function getValues(){
@@ -22,7 +20,6 @@ function getValues(){
     }else{
         alert("You must enter integers");
     }
-
 }
 
 // Generate numbers from the startValue to the endValue
@@ -48,9 +45,7 @@ function displayNumbers(numbers){
         }else{
             className = "odd";
         }
-        
         templateRows += `<tr><td class="${className}">${number}</td></tr>`;
-
     }
     document.getElementById("results").innerHTML = templateRows;
 }
